@@ -1,0 +1,16 @@
+Type (no effect?)
+Index
+Antrieb (text)
+Name (text)
+?Some kind of index (UI) ?
+Unlocking Year
+Capacity
+Attractivness
+Speed (text)
+?
+?
+Cost
+Cost per distance
+Degradation (the lower the higher)
+Repair cost
+?
