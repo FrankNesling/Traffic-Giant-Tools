@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1cac430a-490b-415b-a0c8-2ee7a85c8d36</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>VST-Reader.py</StartupFile>
+    <StartupFile>Schwebebahn_Hook.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Schwebebahn_Hook.py" />
     <Compile Include="VST-Reader.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
